@@ -1,7 +1,569 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cookbook dubadub Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242410926,
+            "language": "Cooklang",
+            "last_commit": "2026-07-15T14:56:30Z",
+            "owner": "dubadub",
+            "repo": "cookbook",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recipes",
+          "description": "recipes nicholaswilde A collection of recipes made with Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478323774,
+            "language": "Cooklang",
+            "last_commit": "2026-08-24T00:10:26Z",
+            "owner": "nicholaswilde",
+            "repo": "recipes",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cooking book",
+          "description": "remy Net-Mist Contains a list of French cooking recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491086405,
+            "language": "Python",
+            "last_commit": "2024-03-15T08:12:27Z",
+            "owner": "Net-Mist",
+            "repo": "remy",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cookbook bubonicfred Repository of recipes made with Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 496562773,
+            "language": "Cooklang",
+            "last_commit": "2026-06-29T04:01:43Z",
+            "owner": "bubonicfred",
+            "repo": "cookbook",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "CookBook Diegothx Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743754460,
+            "language": null,
+            "last_commit": "2024-01-15T23:19:43Z",
+            "owner": "Diegothx",
+            "repo": "CookBook",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "RecipeManager javieruhk Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 549695455,
+            "language": "Python",
+            "last_commit": "2023-06-01T05:42:18Z",
+            "owner": "javieruhk",
+            "repo": "RecipeManager",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://mgw.dumatics.com/a_diabetics_journal/",
+          "description": "a_diabetics_journal pubmania A journal that details attempts of this diabetic at leading a normal life.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 648191551,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-15T17:11:52Z",
+            "owner": "pubmania",
+            "repo": "a_diabetics_journal",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cookbook 2xAA Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783338435,
+            "language": "Cooklang",
+            "last_commit": "2026-01-16T11:13:44Z",
+            "owner": "2xAA",
+            "repo": "cookbook",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cooking andoriyu Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467257283,
+            "language": "Shell",
+            "last_commit": "2025-06-07T05:29:26Z",
+            "owner": "andoriyu",
+            "repo": "cooking",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipebook azlekov Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469426748,
+            "language": "JavaScript",
+            "last_commit": "2022-06-19T11:35:00Z",
+            "owner": "azlekov",
+            "repo": "recipebook",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cookbook BraeTroutman Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 856494342,
+            "language": "Cooklang",
+            "last_commit": "2026-06-23T17:32:17Z",
+            "owner": "BraeTroutman",
+            "repo": "cookbook",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes brendanmckenzie Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666215963,
+            "language": "Cooklang",
+            "last_commit": "2026-02-10T02:16:09Z",
+            "owner": "brendanmckenzie",
+            "repo": "recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "site briansunter Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223850981,
+            "language": "HTML",
+            "last_commit": "2023-03-04T15:11:39Z",
+            "owner": "briansunter",
+            "repo": "site",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cooking crhuber Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469789214,
+            "language": "Cooklang",
+            "last_commit": "2026-08-13T09:27:19Z",
+            "owner": "crhuber",
+            "repo": "cooking",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes cvhooser Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422428270,
+            "language": null,
+            "last_commit": "2021-10-29T03:18:59Z",
+            "owner": "cvhooser",
+            "repo": "recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes demosjarco Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511318557,
+            "language": "Python",
+            "last_commit": "2026-08-09T02:03:07Z",
+            "owner": "demosjarco",
+            "repo": "recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "my-recipes-cooklang firefly2442 Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 900185207,
+            "language": "Cooklang",
+            "last_commit": "2026-08-21T18:55:06Z",
+            "owner": "firefly2442",
+            "repo": "my-recipes-cooklang",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes ggalmazor Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 421783117,
+            "language": null,
+            "last_commit": "2021-10-27T11:54:07Z",
+            "owner": "ggalmazor",
+            "repo": "recipes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes Gunde Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744770374,
+            "language": "Cooklang",
+            "last_commit": "2025-12-10T20:18:36Z",
+            "owner": "Gunde",
+            "repo": "recipes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes iandennismiller Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 708434872,
+            "language": null,
+            "last_commit": "2024-09-12T18:55:11Z",
+            "owner": "iandennismiller",
+            "repo": "recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cook ignacio-gn Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 659905171,
+            "language": null,
+            "last_commit": "2025-02-01T10:01:17Z",
+            "owner": "ignacio-gn",
+            "repo": "cook",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes isaacvando Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585731447,
+            "language": null,
+            "last_commit": "2025-07-29T00:40:54Z",
+            "owner": "isaacvando",
+            "repo": "recipes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "RecipeBook jnobles Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560711656,
+            "language": "Python",
+            "last_commit": "2024-01-01T22:28:14Z",
+            "owner": "jnobles",
+            "repo": "RecipeBook",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "helanxiaochu JorenC Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667292535,
+            "language": "HTML",
+            "last_commit": "2025-09-10T17:48:51Z",
+            "owner": "JorenC",
+            "repo": "helanxiaochu",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes justintout Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616300891,
+            "language": "Cooklang",
+            "last_commit": "2025-12-29T20:52:05Z",
+            "owner": "justintout",
+            "repo": "recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "rezepte leMaik Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469223353,
+            "language": "Cooklang",
+            "last_commit": "2026-05-15T12:14:18Z",
+            "owner": "leMaik",
+            "repo": "rezepte",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cooklang-recipes LiHRaM Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 437300173,
+            "language": null,
+            "last_commit": "2025-02-15T14:27:58Z",
+            "owner": "LiHRaM",
+            "repo": "cooklang-recipes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "comidadaboa LudeeD Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 485417762,
+            "language": "JavaScript",
+            "last_commit": "2025-06-22T18:49:28Z",
+            "owner": "LudeeD",
+            "repo": "comidadaboa",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "menu luizribeiro Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 415654279,
+            "language": "Python",
+            "last_commit": "2026-02-12T19:05:07Z",
+            "owner": "luizribeiro",
+            "repo": "menu",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "galaiko.rocks ngalaiko Repo with cocktails written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169710879,
+            "language": "Cooklang",
+            "last_commit": "2026-08-24T01:07:57Z",
+            "owner": "ngalaiko",
+            "repo": "galaiko.rocks",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "cooklang shen-sat Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 458864873,
+            "language": null,
+            "last_commit": "2023-01-03T22:24:58Z",
+            "owner": "shen-sat",
+            "repo": "cooklang",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes simcard0000 Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782739091,
+            "language": null,
+            "last_commit": "2024-07-07T22:59:44Z",
+            "owner": "simcard0000",
+            "repo": "recipes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes surzycki Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 448269465,
+            "language": "Cooklang",
+            "last_commit": "2026-05-31T09:19:39Z",
+            "owner": "surzycki",
+            "repo": "recipes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes tdstein Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425876562,
+            "language": null,
+            "last_commit": "2021-11-23T19:29:25Z",
+            "owner": "tdstein",
+            "repo": "recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipe_archive tntraina Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 592072434,
+            "language": "Cooklang",
+            "last_commit": "2026-03-16T20:16:47Z",
+            "owner": "tntraina",
+            "repo": "recipe_archive",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "recipes TyHil Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 572650619,
+            "language": "Cooklang",
+            "last_commit": "2026-07-27T01:22:44Z",
+            "owner": "TyHil",
+            "repo": "recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "-",
+          "description": "innovation-dinner-2022 XpiritBV Repo with recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494755755,
+            "language": null,
+            "last_commit": "2022-05-30T06:17:50Z",
+            "owner": "XpiritBV",
+            "repo": "innovation-dinner-2022",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Cookbooks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T13:45:09.430Z",
+    "last_updated": "2026-08-24T14:19:20.390Z",
     "original_repository": "cooklang/awesome-cooklang-recipes",
     "original_repository_id": 490993439,
     "original_repository_sha": "30939ce4178caef56e9259bf7f485f2694eac02b",
