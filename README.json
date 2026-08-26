@@ -447,7 +447,7 @@
             "archived": false,
             "id": 169710879,
             "language": "Cooklang",
-            "last_commit": "2026-08-25T01:09:24Z",
+            "last_commit": "2026-08-26T01:08:51Z",
             "owner": "ngalaiko",
             "repo": "galaiko.rocks",
             "stars": 5
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:03:11.638Z",
+    "last_updated": "2026-08-26T14:03:15.438Z",
     "original_repository": "cooklang/awesome-cooklang-recipes",
     "original_repository_id": 490993439,
     "original_repository_sha": "30939ce4178caef56e9259bf7f485f2694eac02b",
