@@ -252,7 +252,7 @@
             "archived": false,
             "id": 900185207,
             "language": "Cooklang",
-            "last_commit": "2026-08-21T18:55:06Z",
+            "last_commit": "2026-08-27T01:56:21Z",
             "owner": "firefly2442",
             "repo": "my-recipes-cooklang",
             "stars": 0
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 169710879,
             "language": "Cooklang",
-            "last_commit": "2026-08-26T01:08:51Z",
+            "last_commit": "2026-08-27T07:16:25Z",
             "owner": "ngalaiko",
             "repo": "galaiko.rocks",
             "stars": 5
@@ -563,9 +563,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:03:15.438Z",
-    "original_repository": "cooklang/awesome-cooklang-recipes",
-    "original_repository_id": 490993439,
+    "last_updated": "2026-08-27T11:35:57.770Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 490993439,
+      "language": "Python",
+      "last_commit": "2025-11-06T17:40:04Z",
+      "owner": "cooklang",
+      "repo": "awesome-cooklang-recipes",
+      "stars": 110
+    },
     "original_repository_sha": "30939ce4178caef56e9259bf7f485f2694eac02b",
     "enhanced_repository": "enhansome/enhansome-cooklang-recipes",
     "enhanced_repository_description": null,
