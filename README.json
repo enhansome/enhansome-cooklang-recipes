@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 242410926,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-07-15T14:56:30Z",
+            "open_issues": 0,
             "owner": "dubadub",
             "repo": "cookbook",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "cooklang"
+            ]
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -26,12 +33,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥗 My collection of recipes made with cooklang 📖",
+            "homepage": "https://nicholaswilde.io/recipes",
             "id": 478323774,
             "language": "Cooklang",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T00:10:26Z",
+            "open_issues": 333,
             "owner": "nicholaswilde",
             "repo": "recipes",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "cooking",
+              "cooking-recipes",
+              "cooklang",
+              "giscus",
+              "recipes"
+            ]
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cooking recipes",
+            "homepage": null,
             "id": 491086405,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-15T08:12:27Z",
+            "open_issues": 0,
             "owner": "Net-Mist",
             "repo": "remy",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -58,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of cooklang recipes",
+            "homepage": "HomePage",
             "id": 496562773,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-06-29T04:01:43Z",
+            "open_issues": 0,
             "owner": "bubonicfred",
             "repo": "cookbook",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A recopilation of recipes",
+            "homepage": null,
             "id": 743754460,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-15T23:19:43Z",
+            "open_issues": 0,
             "owner": "Diegothx",
             "repo": "CookBook",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -90,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 549695455,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-01T05:42:18Z",
+            "open_issues": 0,
             "owner": "javieruhk",
             "repo": "RecipeManager",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -106,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A journal that details attempts of this diabetic at leading a normal life.",
+            "homepage": "https://mgw.dumatics.com/a_diabetics_journal/",
             "id": 648191551,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-06-15T17:11:52Z",
+            "open_issues": 0,
             "owner": "pubmania",
             "repo": "a_diabetics_journal",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -122,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cookbook repository for Cooklang files made with Nuxt 3, Vue 3 and Pinia.",
+            "homepage": "https://cookbook.wray.pro",
             "id": 783338435,
             "language": "Cooklang",
+            "license": "MIT",
             "last_commit": "2026-01-16T11:13:44Z",
+            "open_issues": 0,
             "owner": "2xAA",
             "repo": "cookbook",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -138,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://cooklang.org/",
+            "homepage": null,
             "id": 467257283,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-06-07T05:29:26Z",
+            "open_issues": 1,
             "owner": "andoriyu",
             "repo": "cooking",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -154,12 +207,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Our family recipe book organized using CookLang",
+            "homepage": "https://azlekov.github.io/recipebook/",
             "id": 469426748,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-19T11:35:00Z",
+            "open_issues": 0,
             "owner": "azlekov",
             "repo": "recipebook",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cooklang",
+              "recipe-book",
+              "recipes-book"
+            ]
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -170,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of Recipes in CookLang",
+            "homepage": null,
             "id": 856494342,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-06-23T17:32:17Z",
+            "open_issues": 0,
             "owner": "BraeTroutman",
             "repo": "cookbook",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -186,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 666215963,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-02-10T02:16:09Z",
+            "open_issues": 1,
             "owner": "brendanmckenzie",
             "repo": "recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -202,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Personal Site",
+            "homepage": "https://briansunter.com",
             "id": 223850981,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-03-04T15:11:39Z",
+            "open_issues": 9,
             "owner": "briansunter",
             "repo": "site",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -218,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source recipes writting in Cooklang",
+            "homepage": null,
             "id": 469789214,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-08-13T09:27:19Z",
+            "open_issues": 0,
             "owner": "crhuber",
             "repo": "cooking",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -234,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 422428270,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-29T03:18:59Z",
+            "open_issues": 0,
             "owner": "cvhooser",
             "repo": "recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -250,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://demosjarco.github.io/recipes/",
             "id": 511318557,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T02:03:07Z",
+            "open_issues": 10,
             "owner": "demosjarco",
             "repo": "recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -266,12 +358,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal recipes in markdown cooklang format.",
+            "homepage": null,
             "id": 900185207,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-08-27T01:56:21Z",
+            "open_issues": 1,
             "owner": "firefly2442",
             "repo": "my-recipes-cooklang",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cooklang",
+              "docker",
+              "recipes"
+            ]
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -282,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 421783117,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-27T11:54:07Z",
+            "open_issues": 0,
             "owner": "ggalmazor",
             "repo": "recipes",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -298,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cooklang Recipes",
+            "homepage": null,
             "id": 744770374,
             "language": "Cooklang",
+            "license": "MIT",
             "last_commit": "2025-12-10T20:18:36Z",
+            "open_issues": 2,
             "owner": "Gunde",
             "repo": "recipes",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -314,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recipes for preparing food. All recipes written in CookLang.",
+            "homepage": null,
             "id": 708434872,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-12T18:55:11Z",
+            "open_issues": 0,
             "owner": "iandennismiller",
             "repo": "recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -330,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 659905171,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-01T10:01:17Z",
+            "open_issues": 0,
             "owner": "ignacio-gn",
             "repo": "cook",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -346,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Isaac's Recipes",
+            "homepage": null,
             "id": 585731447,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-29T00:40:54Z",
+            "open_issues": 0,
             "owner": "isaacvando",
             "repo": "recipes",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -362,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 560711656,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-01T22:28:14Z",
+            "open_issues": 0,
             "owner": "jnobles",
             "repo": "RecipeBook",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -378,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese Recipes for Everyone",
+            "homepage": null,
             "id": 667292535,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-09-10T17:48:51Z",
+            "open_issues": 1,
             "owner": "JorenC",
             "repo": "helanxiaochu",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -394,12 +530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 616300891,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2025-12-29T20:52:05Z",
+            "open_issues": 0,
             "owner": "justintout",
             "repo": "recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -410,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful recipes page made with Next.js and Cooklang.",
+            "homepage": "http://rezepte.maik.tech",
             "id": 469223353,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-05-15T12:14:18Z",
+            "open_issues": 0,
             "owner": "leMaik",
             "repo": "rezepte",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -426,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 437300173,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-15T14:27:58Z",
+            "open_issues": 0,
             "owner": "LiHRaM",
             "repo": "cooklang-recipes",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -442,12 +593,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A zero bullshit recipe website",
+            "homepage": "https://comidadaboa.com",
             "id": 485417762,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-22T18:49:28Z",
+            "open_issues": 0,
             "owner": "LudeeD",
             "repo": "comidadaboa",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "food",
+              "portugal",
+              "recipes"
+            ]
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -458,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 415654279,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-12T19:05:07Z",
+            "open_issues": 12,
             "owner": "luizribeiro",
             "repo": "menu",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -474,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my website ",
+            "homepage": "https://nikita.galaiko.rocks",
             "id": 169710879,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-08-28T09:00:34Z",
+            "open_issues": 3,
             "owner": "ngalaiko",
             "repo": "galaiko.rocks",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -490,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 458864873,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-03T22:24:58Z",
+            "open_issues": 0,
             "owner": "shen-sat",
             "repo": "cooklang",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -506,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏺 Dishes from my family and other sources.",
+            "homepage": null,
             "id": 782739091,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-07T22:59:44Z",
+            "open_issues": 0,
             "owner": "simcard0000",
             "repo": "recipes",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -522,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Food recipe collection",
+            "homepage": null,
             "id": 448269465,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-05-31T09:19:39Z",
+            "open_issues": 0,
             "owner": "surzycki",
             "repo": "recipes",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -538,12 +723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My recipe book",
+            "homepage": null,
             "id": 425876562,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-11-23T19:29:25Z",
+            "open_issues": 0,
             "owner": "tdstein",
             "repo": "recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -554,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Archive of various recipes I use a bunch",
+            "homepage": null,
             "id": 592072434,
             "language": "Cooklang",
+            "license": null,
             "last_commit": "2026-03-16T20:16:47Z",
+            "open_issues": 0,
             "owner": "tntraina",
             "repo": "recipe_archive",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -570,12 +765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Website to catalog personal recipes.",
+            "homepage": "https://tylergordonhill.com/recipes",
             "id": 572650619,
             "language": "Cooklang",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-27T01:22:44Z",
+            "open_issues": 0,
             "owner": "TyHil",
             "repo": "recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         },
@@ -586,12 +786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recipes for the Xpirit Innovation Dinner served on 20-05-2022.",
+            "homepage": null,
             "id": 494755755,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-30T06:17:50Z",
+            "open_issues": 0,
             "owner": "XpiritBV",
             "repo": "innovation-dinner-2022",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:15.240Z"
         }
@@ -600,15 +805,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:02:15.240Z",
+    "last_updated": "2026-08-29T04:59:32.938Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of cookbooks and recipes involving the use of the cooklang recipe markup language",
+      "homepage": "https://cooklang.org/",
       "id": 490993439,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2025-11-06T17:40:04Z",
+      "open_issues": 2,
       "owner": "cooklang",
       "repo": "awesome-cooklang-recipes",
-      "stars": 110
+      "stars": 110,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cooking",
+        "cooking-recipes",
+        "cooklang",
+        "recipes"
+      ]
     },
     "original_repository_sha": "30939ce4178caef56e9259bf7f485f2694eac02b",
     "enhanced_repository": "enhansome/enhansome-cooklang-recipes",
