@@ -644,7 +644,7 @@
             "id": 169710879,
             "language": "Cooklang",
             "license": null,
-            "last_commit": "2026-09-15T03:23:37Z",
+            "last_commit": "2026-09-16T03:17:17Z",
             "open_issues": 3,
             "owner": "ngalaiko",
             "repo": "galaiko.rocks",
@@ -707,7 +707,7 @@
             "id": 448269465,
             "language": "Cooklang",
             "license": null,
-            "last_commit": "2026-09-13T20:12:15Z",
+            "last_commit": "2026-09-16T17:36:26Z",
             "open_issues": 0,
             "owner": "surzycki",
             "repo": "recipes",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:40:01.979Z",
+    "last_updated": "2026-09-16T17:37:20.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of cookbooks and recipes involving the use of the cooklang recipe markup language",
