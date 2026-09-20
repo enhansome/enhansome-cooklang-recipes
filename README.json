@@ -38,8 +38,8 @@
             "id": 478323774,
             "language": "Cooklang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T02:10:34Z",
-            "open_issues": 333,
+            "last_commit": "2026-09-20T06:18:26Z",
+            "open_issues": 321,
             "owner": "nicholaswilde",
             "repo": "recipes",
             "stars": 49,
@@ -644,7 +644,7 @@
             "id": 169710879,
             "language": "Cooklang",
             "license": null,
-            "last_commit": "2026-09-19T03:04:58Z",
+            "last_commit": "2026-09-20T03:20:58Z",
             "open_issues": 3,
             "owner": "ngalaiko",
             "repo": "galaiko.rocks",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:29:20.562Z",
+    "last_updated": "2026-09-20T16:47:19.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of cookbooks and recipes involving the use of the cooklang recipe markup language",
