@@ -644,7 +644,7 @@
             "id": 169710879,
             "language": "Cooklang",
             "license": null,
-            "last_commit": "2026-09-30T03:58:26Z",
+            "last_commit": "2026-10-01T04:05:23Z",
             "open_issues": 0,
             "owner": "ngalaiko",
             "repo": "galaiko.rocks",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:26:49.071Z",
+    "last_updated": "2026-10-01T18:52:45.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of cookbooks and recipes involving the use of the cooklang recipe markup language",
@@ -813,7 +813,7 @@
       "id": 490993439,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2025-11-06T17:40:04Z",
+      "last_commit": "2026-10-01T14:48:17Z",
       "open_issues": 2,
       "owner": "cooklang",
       "repo": "awesome-cooklang-recipes",
@@ -827,7 +827,7 @@
         "recipes"
       ]
     },
-    "original_repository_sha": "30939ce4178caef56e9259bf7f485f2694eac02b",
+    "original_repository_sha": "9da49f5c74cbc345ff5e7c3a2b5978c6e1cce6f2",
     "enhanced_repository": "enhansome/enhansome-cooklang-recipes",
     "enhanced_repository_description": null,
     "title": "Awesome Cooklang Recipes with stars"
