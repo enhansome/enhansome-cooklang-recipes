@@ -342,8 +342,8 @@
             "id": 511318557,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T04:00:39Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-29T18:29:40Z",
+            "open_issues": 11,
             "owner": "demosjarco",
             "repo": "recipes",
             "stars": 0,
@@ -644,7 +644,7 @@
             "id": 169710879,
             "language": "Cooklang",
             "license": null,
-            "last_commit": "2026-10-28T03:56:59Z",
+            "last_commit": "2026-10-29T04:19:53Z",
             "open_issues": 0,
             "owner": "ngalaiko",
             "repo": "galaiko.rocks",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:51:09.404Z",
+    "last_updated": "2026-10-29T18:57:08.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of cookbooks and recipes involving the use of the cooklang recipe markup language",
